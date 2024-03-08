@@ -1,7 +1,7 @@
 <?php
 
 $username = "root";
-$password = "123"; // No password provided
+$password = "123";
 $host = 'localhost';
 
 $is_connect = mysqli_connect($host, $username, $password);
